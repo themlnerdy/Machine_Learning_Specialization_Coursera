@@ -1,4 +1,4 @@
-Contents
+### Contents (Week wise)
 1. Simple Linear Regression
 2. Multiple Regression
 3. Assessing Performance
